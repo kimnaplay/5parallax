@@ -1,0 +1,15 @@
+@charset "UDT_8";
+
+*{margin: 0; padding: 0;}
+
+.container{
+    width: 400px;
+    height: 500px;
+    margin: 100px auto;
+    overflow: hidden;
+    background-color: #000;
+}
+.container #scene{}
+.container #scene .b1 img{
+    transform: scale(1.2);
+}
